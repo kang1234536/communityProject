@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context> 
+	<Resource name="jdbc/postgres"
+	auth="Container"
+	type="javax.sql.DataSource"
+	username="u37m7gk2uqdr49"
+	password="pa7760e461993f6fc7dd1f5afc4466283266a56f5ac19362f3139c85875861d0f"
+	driverClassName="org.postgresql.Driver"
+	factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"
+	url="jdbc:postgresql://cfljfb1quhols5.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/d65eoloovved56"
+	maxActive="500"
+	maxIdle="100"/>  
+</Context>
