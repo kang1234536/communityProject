@@ -1785,3 +1785,42 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:14:39.829
 !MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.043
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-cli[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.047
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.256
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.340
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.343
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.345
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.476
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-cli[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.480
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.644
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:20.853
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-cli[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:21.563
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:21.567
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-05 10:16:21.569
+!MESSAGE [1;33mParameter '[0;1;33mproject.build.sourceEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-war-plugin[0;1;33m:[0;1;33m3.4.0[0;1;33m:[0;1;33mwar[0;1;33m ([0;1;33mdefault-war[0;1;33m)[0;1;33m'[m
