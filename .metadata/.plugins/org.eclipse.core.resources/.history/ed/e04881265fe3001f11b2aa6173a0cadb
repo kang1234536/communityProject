@@ -24,7 +24,7 @@
       	<artifactId>maven-war-plugin</artifactId>
       	<version>2.4</version>
       	<configuration>
-      		<webXml>communityProject\src\main\webapp\WEB-INF\web.xml</webXml>
+      		<webXml>src\main\webapp\WEB-INF\web.xml</webXml>
       		<failOnMissingWebXml>false</failOnMissingWebXml>
 			<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       	</configuration>
