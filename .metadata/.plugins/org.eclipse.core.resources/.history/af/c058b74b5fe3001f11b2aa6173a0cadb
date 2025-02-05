@@ -15,12 +15,18 @@
           <target>1.6</target>
         </configuration>
       </plugin>
+      
+        
+        
+
       <plugin>
       	<groupId>org.apache.maven.plugins</groupId>
       	<artifactId>maven-war-plugin</artifactId>
       	<version>2.4</version>
       	<configuration>
-      		<webXml>${project.basedir}\src\main\webapp\WEB-INF\web.xml</webXml>
+      		<webXml>communityProject\src\main\webapp\WEB-INF\web.xml</webXml>
+      		<failOnMissingWebXml>false</failOnMissingWebXml>
+			<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       	</configuration>
       </plugin>
     </plugins>
